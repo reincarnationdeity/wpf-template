@@ -25,7 +25,6 @@ namespace AirportManagementSystem
         public MainWindow()
         {
             InitializeComponent();
-
             MainFrame.NavigationService.Navigate(new SignIn());
             PageManager.mainFrame = MainFrame;
 

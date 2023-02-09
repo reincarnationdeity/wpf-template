@@ -1,0 +1,82 @@
+[
+  {
+    "departurePoint": "Pearson Int (YYZ)",
+    "arrivalPoint": "Dubai Int (DXB)",
+    "departureTime": "13:55",
+    "arrivalTime": "11:40",
+    "icaoCode": "EK 242",
+    "company": "Emirates"
+  },
+  {
+    "departurePoint": "Pearson Int (YYZ)",
+    "arrivalPoint": "Montreal Int (YUL)",
+    "departureTime": "10:00",
+    "arrivalTime": "10:20",
+    "icaoCode": "AC406",
+    "company": "Air Canada"
+  },
+  {
+    "departurePoint": "Pearson Int (YYZ)",
+    "arrivalPoint": "Punta Cana Int (PUJ)",
+    "departureTime": "10:11",
+    "arrivalTime": "15:05",
+    "icaoCode": "WS2766",
+    "company": "Westjet"
+  },
+  {
+    "departurePoint": "Pearson Int (YYZ)",
+    "arrivalPoint": "Incheon Int (ICN)",
+    "departureTime": "13:40",
+    "arrivalTime": "05:20",
+    "icaoCode": "AC61",
+    "company": "  Air Canada"
+  },
+  {
+    "departurePoint": "Pearson Int (YYZ)",
+    "arrivalPoint": "Narita Int (NRT)",
+    "departureTime": "13:30",
+    "arrivalTime": "04:20",
+    "icaoCode": "NH6813",
+    "company": "All Nippon Airways"
+  },
+  {
+    "departurePoint": "Cancun Int (CUN)",
+    "arrivalPoint": "Pearson Int (YYZ)",
+    "departureTime": "13:55",
+    "arrivalTime": "16:20",
+    "icaoCode": "WO 655",
+    "company": "SWOOP AIR"
+  },
+  {
+    "departurePoint": "Salt Lake City Int (SLT)",
+    "arrivalPoint": "Pearson Int (YYZ)",
+    "departureTime": "14:10",
+    "arrivalTime": "16:19",
+    "icaoCode": "AAL123",
+    "company": "American Airlines"
+  },
+  {
+    "departurePoint": "Panama Tocumen Int (PTY)",
+    "arrivalPoint": "Pearson Int (YYZ)",
+    "departureTime": "18:20",
+    "arrivalTime": "00:01",
+    "icaoCode": "AC198",
+    "company": "Air Canada"
+  },
+  {
+    "departurePoint": "Miami Int (MIA)",
+    "arrivalPoint": "Pearson Int (YYZ)",
+    "departureTime": "21:30",
+    "arrivalTime": "00:13",
+    "icaoCode": "AA1246",
+    "company": "American Airlines"
+  },
+  {
+    "departurePoint": "Newark Int (NWK)",
+    "arrivalPoint": "Pearson Int (YYZ)",
+    "departureTime": "05:20",
+    "arrivalTime": "07:40",
+    "icaoCode": "AC8873",
+    "company": "Air Canada Jazz"
+  }
+]

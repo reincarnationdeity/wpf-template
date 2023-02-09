@@ -9,6 +9,7 @@
 
     <ItemGroup>
       <PackageReference Include="ModernWpfUI" Version="0.9.7-preview.2" />
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.3-beta1" />
     </ItemGroup>
 
     <ItemGroup>
@@ -16,6 +17,10 @@
       <Resource Include="Resources\logo.png" />
       <None Remove="Resources\prj_logo.png" />
       <Resource Include="Resources\prj_logo.png" />
+      <None Remove="Resources\schedule.json" />
+      <Resource Include="Resources\schedule.json">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Resource>
     </ItemGroup>
 
 </Project>
